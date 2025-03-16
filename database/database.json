@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "卡坦島",
+        "play_time": "60-120 分鐘",
+        "min_players": 3,
+        "max_players": 4,
+        "game_type": "策略",
+        "rules": "玩家透過擲骰子獲取資源，並建造道路和城市，先獲得 10 分的玩家獲勝。",
+        "image_url": "https://example.com/catan.jpg"
+    },
+    {
+        "id": 2,
+        "name": "狼人殺",
+        "play_time": "30-60 分鐘",
+        "min_players": 6,
+        "max_players": 18,
+        "game_type": "社交推理",
+        "rules": "玩家分為狼人與村民，透過發言和投票找出狼人，狼人則試圖隱藏身份並淘汰村民。",
+        "image_url": "https://example.com/werewolf.jpg"
+    }
+]
